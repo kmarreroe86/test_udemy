@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Moq;
 using RoomBookingApp.Domain;
 using RoomBookingApp.Model;
+using RoomBookingApp.Enums;
 using RoomBookingApp.Processor;
 using Shouldly;
 using Xunit;
@@ -26,7 +27,7 @@ namespace RoomBookingApp.Core.Tests
         public RoomBookingRequestProcessorTest()
         {
 
-            _rooms = new List<Room>() { new Room() };
+            _rooms = new List<Room>() { new Room() { Id = 1 } };
             _request = new RoomBookingRequest
             {
                 FullName = "Test Name",
@@ -89,6 +90,7 @@ namespace RoomBookingApp.Core.Tests
             savedBooking.FullName.ShouldBe(_request.FullName);
             savedBooking.Email.ShouldBe(_request.Email);
             savedBooking.Date.ShouldBe(_request.Date);
+            savedBooking.RoomId.ShouldBe(_rooms.First().Id);
 
         }
 
@@ -98,6 +100,45 @@ namespace RoomBookingApp.Core.Tests
             _rooms.Clear();
             _processor.BookRoom(_request);
             _roomBookingServiceMock.Verify(x => x.Save(It.IsAny<RoomBooking>()), Times.Never);
+
+        }
+
+        [Theory]
+        [InlineData(BookingSuccessFlag.Failure, false)]
+        [InlineData(BookingSuccessFlag.Success, true)]
+        public void Should_Return_SuccessOrFailure_Flag_In_Result(BookingSuccessFlag bookingSuccessFlag, bool isAvailable)
+        {
+
+            if (!isAvailable)
+            {
+                _rooms.Clear();
+            }
+
+            var result = _processor.BookRoom(_request);
+            bookingSuccessFlag.ShouldBe(result.Flag);
+        }
+
+        [Theory]
+        [InlineData(1, true)]
+        [InlineData(null, false)]
+        public void Should_Return_RoomBookingId_In_Result(int? roomBookingId, bool isAvailable)
+        {
+
+            if (!isAvailable)
+            {
+                _rooms.Clear();
+            }
+            else
+            {
+                _roomBookingServiceMock.Setup(x => x.Save(It.IsAny<RoomBooking>()))
+                .Callback<RoomBooking>(booking =>
+                {
+                    booking.Id = roomBookingId;
+                });
+            }
+
+            var result = _processor.BookRoom(_request);
+            result.RoomBookingId.ShouldBe(roomBookingId);
 
         }
     }

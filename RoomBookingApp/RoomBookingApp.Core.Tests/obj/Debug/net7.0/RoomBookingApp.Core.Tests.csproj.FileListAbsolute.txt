@@ -1,3 +1,4 @@
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.7z
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.bz2
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/EmptyFiles/archive/empty.gz
@@ -47,6 +48,7 @@
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/RoomBookingApp.Core.Tests.runtimeconfig.json
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/RoomBookingApp.Core.Tests.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/RoomBookingApp.Core.Tests.pdb
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/Castle.Core.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/DiffEngine.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/EmptyFiles.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -58,10 +60,12 @@
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/testhost.dll
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/Moq.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/NuGet.Frameworks.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/Shouldly.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/System.CodeDom.dll
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/System.Management.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/xunit.abstractions.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/xunit.assert.dll
@@ -132,7 +136,11 @@
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Management.dll
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/RoomBookingApp.dll
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/RoomBookingApp.pdb
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/obj/Debug/net7.0/RoomBookingApp.Core.Tests.csproj.AssemblyReference.cache
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/obj/Debug/net7.0/RoomBookingApp.Core.Tests.GeneratedMSBuildEditorConfig.editorconfig
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/obj/Debug/net7.0/RoomBookingApp.Core.Tests.AssemblyInfoInputs.cache
@@ -144,11 +152,3 @@
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/obj/Debug/net7.0/RoomBookingApp.Core.Tests.pdb
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/obj/Debug/net7.0/RoomBookingApp.Core.Tests.genruntimeconfig.cache
 /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/obj/Debug/net7.0/ref/RoomBookingApp.Core.Tests.dll
-/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
-/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/RoomBookingApp.dll
-/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/RoomBookingApp.pdb
-/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/Castle.Core.dll
-/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/Moq.dll
-/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
-/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
-/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Core.Tests/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
