@@ -1,15 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
 using Moq;
-using RoomBookingApp.Domain;
 using RoomBookingApp.Model;
 using RoomBookingApp.Enums;
 using RoomBookingApp.Processor;
 using Shouldly;
 using Xunit;
+using RoomBookingApp.Domain;
 
 namespace RoomBookingApp.Core.Tests
 {
