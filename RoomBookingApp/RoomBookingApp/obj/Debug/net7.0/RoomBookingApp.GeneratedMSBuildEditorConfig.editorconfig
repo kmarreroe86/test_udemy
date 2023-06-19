@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RoomBookingApp
-build_property.ProjectDir = J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp\
+build_property.ProjectDir = /Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp/
