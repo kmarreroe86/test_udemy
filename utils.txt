@@ -1,1 +1,1 @@
-Current lesson: https://thoughtworks.udemy.com/course/test-driven-development-in-net-core-the-handbook/learn/lecture/28098684#overview
+Current lesson: https://thoughtworks.udemy.com/course/test-driven-development-in-net-core-the-handbook/learn/lecture/28346598#overview
