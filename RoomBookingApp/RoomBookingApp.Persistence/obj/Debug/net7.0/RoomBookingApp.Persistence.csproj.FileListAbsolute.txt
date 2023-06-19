@@ -1,0 +1,17 @@
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net7.0\RoomBookingApp.Persistence.deps.json
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net7.0\RoomBookingApp.Persistence.dll
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net7.0\RoomBookingApp.Persistence.pdb
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net7.0\RoomBookingApp.dll
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net7.0\RoomBookingApp.Domain.dll
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net7.0\RoomBookingApp.pdb
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net7.0\RoomBookingApp.Domain.pdb
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net7.0\RoomBookingApp.Persistence.csproj.AssemblyReference.cache
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net7.0\RoomBookingApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net7.0\RoomBookingApp.Persistence.AssemblyInfoInputs.cache
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net7.0\RoomBookingApp.Persistence.AssemblyInfo.cs
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net7.0\RoomBookingApp.Persistence.csproj.CoreCompileInputs.cache
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net7.0\RoomBookingApp.Persistence.csproj.CopyComplete
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net7.0\RoomBookingApp.Persistence.dll
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net7.0\refint\RoomBookingApp.Persistence.dll
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net7.0\RoomBookingApp.Persistence.pdb
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net7.0\ref\RoomBookingApp.Persistence.dll

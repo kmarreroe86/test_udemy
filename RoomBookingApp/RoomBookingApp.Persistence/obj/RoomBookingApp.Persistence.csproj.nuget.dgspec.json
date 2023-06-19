@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Persistence\\RoomBookingApp.Persistence.csproj": {}
+  },
+  "projects": {
+    "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Domain\\RoomBookingApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Domain\\RoomBookingApp.Domain.csproj",
+        "projectName": "RoomBookingApp.Domain",
+        "projectPath": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Domain\\RoomBookingApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\kmarrero\\.nuget\\packages\\",
+        "outputPath": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kmarrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "J:\\dotnet\\dotnet5api\\microservices\\source\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Persistence\\RoomBookingApp.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Persistence\\RoomBookingApp.Persistence.csproj",
+        "projectName": "RoomBookingApp.Persistence",
+        "projectPath": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Persistence\\RoomBookingApp.Persistence.csproj",
+        "packagesPath": "C:\\Users\\kmarrero\\.nuget\\packages\\",
+        "outputPath": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kmarrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "J:\\dotnet\\dotnet5api\\microservices\\source\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Domain\\RoomBookingApp.Domain.csproj": {
+                "projectPath": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Domain\\RoomBookingApp.Domain.csproj"
+              },
+              "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp\\RoomBookingApp.csproj": {
+                "projectPath": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp\\RoomBookingApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp\\RoomBookingApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp\\RoomBookingApp.csproj",
+        "projectName": "RoomBookingApp",
+        "projectPath": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp\\RoomBookingApp.csproj",
+        "packagesPath": "C:\\Users\\kmarrero\\.nuget\\packages\\",
+        "outputPath": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kmarrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "J:\\dotnet\\dotnet5api\\microservices\\source\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Domain\\RoomBookingApp.Domain.csproj": {
+                "projectPath": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp.Domain\\RoomBookingApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

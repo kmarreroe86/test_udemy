@@ -1,0 +1,12 @@
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\bin\Debug\net5.0\RoomBookingApp.Domain.deps.json
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\bin\Debug\net5.0\RoomBookingApp.Domain.dll
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\bin\Debug\net5.0\RoomBookingApp.Domain.pdb
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net5.0\RoomBookingApp.Domain.csproj.AssemblyReference.cache
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net5.0\RoomBookingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net5.0\RoomBookingApp.Domain.AssemblyInfoInputs.cache
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net5.0\RoomBookingApp.Domain.AssemblyInfo.cs
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net5.0\RoomBookingApp.Domain.csproj.CoreCompileInputs.cache
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net5.0\RoomBookingApp.Domain.dll
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net5.0\refint\RoomBookingApp.Domain.dll
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net5.0\RoomBookingApp.Domain.pdb
+J:\dotnet\testing\test_udemy\RoomBookingApp\RoomBookingApp.Domain\obj\Debug\net5.0\ref\RoomBookingApp.Domain.dll
