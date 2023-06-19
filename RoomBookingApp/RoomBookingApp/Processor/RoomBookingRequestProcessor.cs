@@ -1,9 +1,10 @@
+using RoomBookingApp.DataServices;
 using RoomBookingApp.Enums;
 using RoomBookingApp.Model;
 
 namespace RoomBookingApp.Processor
 {
-    public class RoomBookingRequestProcessor
+    public class RoomBookingRequestProcessor : IRoomBookingRequestProcessor
     {
 
         public IRoomBookingService _roomBookingService;

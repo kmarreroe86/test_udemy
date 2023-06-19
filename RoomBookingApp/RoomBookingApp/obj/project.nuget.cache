@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zcA2IeUz6Xn4xCwdEtiNcXDU+y0Y1r8ILrPQIeIJViKUPR+2S7AdnfQSaAmZhXU94g8fY3sfMXnjC8ZH9oW+8w==",
+  "dgSpecHash": "GxElz17dCVV5no+ACPkyYMYgPgdYuotKVtwe+grNraPCjJ5ydOxx+gAewbOQ7r+uSEJCv1sFpbmeHyC4V1Urzw==",
   "success": true,
-  "projectFilePath": "J:\\dotnet\\testing\\test_udemy\\RoomBookingApp\\RoomBookingApp\\RoomBookingApp.csproj",
+  "projectFilePath": "/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp/RoomBookingApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

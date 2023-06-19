@@ -1,6 +1,6 @@
 ﻿using RoomBookingApp.Domain;
 
-namespace RoomBookingApp;
+namespace RoomBookingApp.DataServices;
 public interface IRoomBookingService
 {
     void Save(RoomBooking roomBooking);

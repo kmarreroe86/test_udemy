@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Processor/" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\RoomBookingApp.Domain\RoomBookingApp.Domain.csproj" />
   </ItemGroup>
 

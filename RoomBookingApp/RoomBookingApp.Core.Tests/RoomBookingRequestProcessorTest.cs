@@ -5,6 +5,7 @@ using RoomBookingApp.Processor;
 using Shouldly;
 using Xunit;
 using RoomBookingApp.Domain;
+using RoomBookingApp.DataServices;
 
 namespace RoomBookingApp.Core.Tests
 {

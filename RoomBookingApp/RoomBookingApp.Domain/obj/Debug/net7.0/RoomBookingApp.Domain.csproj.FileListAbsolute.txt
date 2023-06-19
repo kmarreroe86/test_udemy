@@ -1,0 +1,12 @@
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/bin/Debug/net7.0/RoomBookingApp.Domain.deps.json
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/bin/Debug/net7.0/RoomBookingApp.Domain.dll
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/bin/Debug/net7.0/RoomBookingApp.Domain.pdb
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/obj/Debug/net7.0/RoomBookingApp.Domain.csproj.AssemblyReference.cache
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/obj/Debug/net7.0/RoomBookingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/obj/Debug/net7.0/RoomBookingApp.Domain.AssemblyInfoInputs.cache
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/obj/Debug/net7.0/RoomBookingApp.Domain.AssemblyInfo.cs
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/obj/Debug/net7.0/RoomBookingApp.Domain.csproj.CoreCompileInputs.cache
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/obj/Debug/net7.0/RoomBookingApp.Domain.dll
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/obj/Debug/net7.0/refint/RoomBookingApp.Domain.dll
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/obj/Debug/net7.0/RoomBookingApp.Domain.pdb
+/Users/kmarrero/Documents/study/dotnet/test_udemy/RoomBookingApp/RoomBookingApp.Domain/obj/Debug/net7.0/ref/RoomBookingApp.Domain.dll
